@@ -1,15 +1,18 @@
 # Twilio Bot
 
+![8lk02e1h7wy4fiotnsj7](https://user-images.githubusercontent.com/474225/121952931-e4731580-cd2a-11eb-8570-0837b4f7559a.jpg)
 
-## install packages from pyproject.toml
 
-```zsh
+## Install packages from pyproject.toml
+
+```
 $ poetry install
 ```
 
-## run python script
 
-```zsh
+## Run python script
+
+```
 $ poetry run python app.py
 ```
 
