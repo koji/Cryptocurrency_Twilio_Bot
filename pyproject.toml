@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "twilio_crypto_bot"
+version = "0.1.0"
+description = ""
+authors = ["koji <kk2796@nyu.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+twilio = "^6.59.0"
+Flask = "^2.0.1"
+requests = "^2.25.1"
+cryptocompare = "^0.7.5"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
